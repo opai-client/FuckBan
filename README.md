@@ -11,7 +11,7 @@
 
 <img width="1252" height="251" alt="image" src="https://github.com/user-attachments/assets/d2e4a877-2ebe-4405-85e9-83c4da8735e8" />
 
-# 推荐使用自定义Key ChineseMode的含有的公共Key拥有频率限制(开启ChineseMode可以使用公共Key和免费的私有代理转发[绕过无法访问Hypuxel.net])
+## 推荐使用自定义Key ChineseMode的含有的公共Key拥有频率限制(开启ChineseMode可以使用公共Key和免费的私有代理转发[绕过无法访问Hypixel.net])
 
 ## 🎮 如何获取 Hypixel API Key
 
