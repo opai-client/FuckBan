@@ -8,6 +8,8 @@ Place the Jar file into:
 
 Then start your game and open **FuckBan**.  
 
+<img width="1252" height="251" alt="image" src="https://github.com/user-attachments/assets/d2e4a877-2ebe-4405-85e9-83c4da8735e8" />
+
 Once enabled, the current Hypixel ban statistics will be displayed on your Dynamic Island every minute.
 
 ## Recommended to use a custom Key
