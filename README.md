@@ -1,6 +1,6 @@
 # FuckBan
 一款用于显示在Opai中的在线封禁
-
+[English](./README_us.md)
 ## 如何加载此插件
 
 将Jar放置在%APPDATA%\Opai\extensions中
