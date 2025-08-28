@@ -13,8 +13,7 @@ Then start your game and open **FuckBan**.
 Once enabled, the current Hypixel ban statistics will be displayed on your Dynamic Island every minute.
 
 ## Recommended to use a custom Key
-The public Key included in **ChineseMode** has a rate limit.  
-(Enabling **ChineseMode** allows you to use the public Key together with a free private proxy forwarder, which helps bypass the issue of not being able to access hypixel.net directly.)
+Chinesemode is not recommended！！！
 
 ## 🎮 How to get a Hypixel API Key
 
